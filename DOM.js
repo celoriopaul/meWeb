@@ -1,0 +1,1 @@
+const txtName = document.getElementById("text")
